@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "snapshop",
+      "runtimeExecutable": "D:\\EXPLORES\\multimodel demo\\.venv\\Scripts\\python.exe",
+      "runtimeArgs": ["-X", "utf8", "-c", "import app; app.demo.launch()"],
+      "port": 7860
+    }
+  ]
+}
